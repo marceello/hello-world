@@ -1,2 +1,3 @@
 # hello-world
-apenas outro repositório
+
+Oi,sou aluno de Eletrônica e curto programação.
